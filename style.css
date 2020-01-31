@@ -1,0 +1,11 @@
+ul {
+    display: flex;
+    flex-direction: column;
+}
+li {
+    list-style-type: none;
+    display: ;
+    width: 50%;
+    height: 30px;
+    background-color: tomato;
+}
